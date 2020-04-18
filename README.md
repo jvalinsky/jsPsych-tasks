@@ -29,11 +29,11 @@ Select which task to run!
 
 ### Overview of tasks:
 
-Task 1. Color naming stroop: fixation & word blocks w/ different colors response dependant on color
+Task 1. Color naming stroop: fixation & word blocks w/ different colors response dependent on color
 
-Task 2. Color naming stroop \'modified\': fixation & word blocks w/ different colors response dependant on color alternate timing profile
+Task 2. Color naming stroop \'modified\': fixation & word blocks w/ different colors response dependent on color alternate timing profile
 
-Task 3. Attention cueing stroop: fixation & dot & word blocks response dependant on dot location
+Task 3. Attention cueing stroop: fixation & dot & word blocks response dependent on dot location
 
 ### Issues:
 
